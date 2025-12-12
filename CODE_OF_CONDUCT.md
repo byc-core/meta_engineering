@@ -1,40 +1,32 @@
-# Code of Conduct
+# Edep Risalesi (Code of Conduct)
 
-## Our Pledge
+> *"Edep, aklın suretidir."* — Hz. Mevlana
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+Bu topluluk (cemaat), sadece teknik bilgi paylaşımı için değil; **güzel ahlak** üzere bir araya gelmiş "dijital ahiler" topluluğudur.
+Burada yazdığımız kod kadar, o kodu sunuş biçimimiz (üslubumuz) de önemlidir.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+## 1. Temel Düsturlar
 
-## Our Standards
+*   **Hürmet:** Her fikre ve kişiye saygı esastır. "Yaratılanı severiz, Yaratan'dan ötürü."
+*   **Tevazu:** Ne kadar bilirsen bil, bilmediğin bir şey vardır. İlmin hocası, benliğin (Ego) düşmanıdır. "Ben biliyorum" deme, "Öğreniyoruz" de.
+*   **Dilin Afeti:** Kırıcı, aşağılayıcı, alaycı sözlerden sakın. Söz ola kese savaşı, söz ola kestire başı.
+*   **Hüsn-ü Zan:** Karşındakinin niyetini iyiye yor. Hata gördüğünde "kasıtlı yaptı" deme, "sehven olmuştur" de.
 
-Examples of behavior that contributes to a positive environment for our community include:
+## 2. Kabul Edilmeyen Haller (Münkerat)
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+Şu davranışların bu mecliste yeri yoktur:
+*   Kibir ve üstünlük taslamak.
+*   Başkasının emeğini küçümsemek.
+*   Trollük (fitne) çıkarmak.
+*   Mahremiyeti ifşa etmek.
 
-Examples of unacceptable behavior include:
+## 3. Usul ve Yaptırım
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+Edep sınırlarını aşanlar önce nazikçe ikaz edilir (Emr-i bi'l ma'ruf).
+İsrarcı olanlar, meclisin huzurunu (Sekinet) bozmamak adına uzaklaştırılır.
 
-## Enforcement Responsibilities
+Yöneticiler, bu kuralları adaletle (Hakkaniyet) uygulamakla mükelleftir.
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
-
-## Scope
-
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement.
-All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+---
+**"Girdim ilim meclisine, eyledim kıldım talep,**
+**Dediler ilim geride, illa edep illa edep."**
